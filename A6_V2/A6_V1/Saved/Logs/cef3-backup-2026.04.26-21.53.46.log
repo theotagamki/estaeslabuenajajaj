@@ -1,0 +1,11 @@
+[16268:32520:0426/133443.838:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[16268:25048:0426/133444.074:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[16268:32520:0426/133444.194:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16268:32520:0426/133459.279:ERROR:device_event_log_impl.cc(196)] [13:34:58.623] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[8928:10320:0426/133459.290:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C7B5F8F1F4FD7895A0D503BFA8558DBB will be ignored
+[16268:14400:0426/133500.537:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16268:14400:0426/142942.723:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19684:28332:0426/144944.104:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[16268:14400:0426/144950.306:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16268:14400:0426/145150.701:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16268:32520:0426/162103.067:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
