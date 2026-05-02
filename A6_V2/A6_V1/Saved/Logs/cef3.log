@@ -1,14 +1,9 @@
-[29064:30848:0501/230224.126:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[29064:30848:0501/230224.304:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
-[29064:31556:0501/230224.422:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[29064:30848:0501/230224.564:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[29064:31556:0501/230233.774:WARNING:leveldb_database.cc(141)] Unable to open D:\UnrealProjects\ESTAESLABUENAJAJAJ\A6_V2\A6_V1\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\UnrealProjects\ESTAESLABUENAJAJAJ\A6_V2\A6_V1\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[29064:31556:0501/230233.778:WARNING:leveldb_database.cc(141)] Unable to open D:\UnrealProjects\ESTAESLABUENAJAJAJ\A6_V2\A6_V1\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\UnrealProjects\ESTAESLABUENAJAJAJ\A6_V2\A6_V1\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[29064:31556:0501/230233.780:WARNING:leveldb_database.cc(141)] Unable to open D:\UnrealProjects\ESTAESLABUENAJAJAJ\A6_V2\A6_V1\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\UnrealProjects\ESTAESLABUENAJAJAJ\A6_V2\A6_V1\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[29064:31556:0501/230233.784:WARNING:leveldb_database.cc(141)] Unable to open D:\UnrealProjects\ESTAESLABUENAJAJAJ\A6_V2\A6_V1\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\UnrealProjects\ESTAESLABUENAJAJAJ\A6_V2\A6_V1\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[29064:31556:0501/230237.172:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[29064:31556:0501/230237.178:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[29064:30848:0501/230237.822:ERROR:device_event_log_impl.cc(196)] [23:02:37.162] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[5772:12452:0501/230237.832:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-AD8EBA31F3B46D337BA55EBB5EC1F2B2 will be ignored
-[29064:4612:0501/230240.265:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[29064:30848:0501/232700.641:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[29416:18608:0501/223820.207:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[29416:18608:0501/223820.219:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
+[29416:39924:0501/223820.236:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[29416:18608:0501/223820.246:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[25232:39300:0501/223822.847:ERROR:backend_impl.cc(989)] Critical error found -8
+[25232:39300:0501/223824.645:WARNING:storage_block-inl.h(138)] Failed data load.
+[6260:36088:0501/223824.663:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-812F9C61695BA0CB018B55B6A51F9656 will be ignored
+[29416:18608:0501/224019.956:ERROR:device_event_log_impl.cc(196)] [22:40:19.673] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[29416:18608:0501/224417.965:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

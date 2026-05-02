@@ -1,5 +1,1 @@
-2026/05/01-23:02:24.667 3eac Log #3: 9 ops saved to Table #4 OK
-2026/05/01-23:02:24.678 3eac Archiving D:\UnrealProjects\ESTAESLABUENAJAJAJ\A6_V2\A6_V1\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/05/01-23:02:24.678 3eac Table #4: 9 entries OK
-2026/05/01-23:02:24.679 3eac Archiving D:\UnrealProjects\ESTAESLABUENAJAJAJ\A6_V2\A6_V1\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/05/01-23:02:24.696 3eac **** Repaired leveldb D:\UnrealProjects\ESTAESLABUENAJAJAJ\A6_V2\A6_V1\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 274 bytes. Some data may have been lost. ****
+2026/05/01-23:02:24.712 3eac Reusing MANIFEST D:\UnrealProjects\ESTAESLABUENAJAJAJ\A6_V2\A6_V1\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
