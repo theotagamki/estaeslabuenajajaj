@@ -1,3 +1,9 @@
-2026/05/03-16:51:40.560 6fa8 Reusing MANIFEST C:\Users\AF\Downloads\downloads\UVM\ING VIDEOJUEGOS\6\MOTOR DE VIDEOJUEGOS AVANZADOS\ESTAESLABUENAJAJAJ\A6_V2\A6_V1\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/03-16:51:40.564 6fa8 Recovering log #3
-2026/05/03-16:51:40.566 6fa8 Reusing old log C:\Users\AF\Downloads\downloads\UVM\ING VIDEOJUEGOS\6\MOTOR DE VIDEOJUEGOS AVANZADOS\ESTAESLABUENAJAJAJ\A6_V2\A6_V1\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+<<<<<<< Updated upstream
+2026/05/03-17:02:30.525 6508 Reusing MANIFEST C:\Users\AF\Downloads\downloads\UVM\ING VIDEOJUEGOS\6\MOTOR DE VIDEOJUEGOS AVANZADOS\ESTAESLABUENAJAJAJ\A6_V2\A6_V1\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/03-17:02:30.529 6508 Recovering log #3
+2026/05/03-17:02:30.531 6508 Reusing old log C:\Users\AF\Downloads\downloads\UVM\ING VIDEOJUEGOS\6\MOTOR DE VIDEOJUEGOS AVANZADOS\ESTAESLABUENAJAJAJ\A6_V2\A6_V1\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+=======
+2026/05/03-17:58:42.284 1908 Reusing MANIFEST D:\UnrealProjects\ESTAESLABUENAJAJAJ\A6_V2\A6_V1\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/03-17:58:42.295 1908 Recovering log #3
+2026/05/03-17:58:42.299 1908 Reusing old log D:\UnrealProjects\ESTAESLABUENAJAJAJ\A6_V2\A6_V1\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+>>>>>>> Stashed changes

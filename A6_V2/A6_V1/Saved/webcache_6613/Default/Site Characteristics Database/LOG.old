@@ -1,3 +1,9 @@
-2026/05/03-16:51:40.500 1620 Reusing MANIFEST C:\Users\AF\Downloads\downloads\UVM\ING VIDEOJUEGOS\6\MOTOR DE VIDEOJUEGOS AVANZADOS\ESTAESLABUENAJAJAJ\A6_V2\A6_V1\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/05/03-16:51:40.501 1620 Recovering log #9
-2026/05/03-16:51:40.502 1620 Reusing old log C:\Users\AF\Downloads\downloads\UVM\ING VIDEOJUEGOS\6\MOTOR DE VIDEOJUEGOS AVANZADOS\ESTAESLABUENAJAJAJ\A6_V2\A6_V1\Saved\webcache_6613\Default\Site Characteristics Database/000009.log 
+<<<<<<< Updated upstream
+2026/05/03-17:02:30.493 55e4 Reusing MANIFEST C:\Users\AF\Downloads\downloads\UVM\ING VIDEOJUEGOS\6\MOTOR DE VIDEOJUEGOS AVANZADOS\ESTAESLABUENAJAJAJ\A6_V2\A6_V1\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/05/03-17:02:30.493 55e4 Recovering log #9
+2026/05/03-17:02:30.494 55e4 Reusing old log C:\Users\AF\Downloads\downloads\UVM\ING VIDEOJUEGOS\6\MOTOR DE VIDEOJUEGOS AVANZADOS\ESTAESLABUENAJAJAJ\A6_V2\A6_V1\Saved\webcache_6613\Default\Site Characteristics Database/000009.log 
+=======
+2026/05/03-17:58:42.221 805c Reusing MANIFEST D:\UnrealProjects\ESTAESLABUENAJAJAJ\A6_V2\A6_V1\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/05/03-17:58:42.223 805c Recovering log #9
+2026/05/03-17:58:42.224 805c Reusing old log D:\UnrealProjects\ESTAESLABUENAJAJAJ\A6_V2\A6_V1\Saved\webcache_6613\Default\Site Characteristics Database/000009.log 
+>>>>>>> Stashed changes
